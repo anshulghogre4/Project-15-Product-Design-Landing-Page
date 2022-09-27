@@ -8,7 +8,7 @@
 
 ## Key Learnings from the project
 
-- _Right placements of blocks with consistency,helps your project to look aesthetic._
+- _Right placements of blocks with consistency,help your project to look aesthetic._
 
 ---
 
