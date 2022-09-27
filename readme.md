@@ -18,10 +18,10 @@
 
 ---
 
-> Time taken to complete this project: 5hrs
+> Time taken to complete this project: 7hrs
 
 ---
 
-## [Live-Link](https://project-14-dance-home-page1.netlify.app/)
+## [Live-Link](https://project-15-product-design-landing-pag.netlify.app/)
 
 ---
